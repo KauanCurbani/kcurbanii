@@ -18,7 +18,7 @@ const Intro = () => {
               <div className="i-title-item">Code Lover</div>
             </div>
           </div>
-          <a href={Curriculo} target='_blank' className="i-btndownload">Baixar Curriculo</a>
+          {/* <a href={Curriculo} target='_blank' className="i-btndownload">Baixar Curriculo</a> */}
         </div>
       </div>
       <div className="i-right">
