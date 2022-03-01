@@ -75,6 +75,7 @@ input {
   font-size: 14px;
   text-indent: 10px;
   background-color: #424242;
+  padding: 0;
 }
 textarea {
   resize: none;
@@ -85,6 +86,7 @@ textarea {
   font-size: 14px;
   text-indent: 10px;
   background-color: #424242;
+  padding: 0;
 }
 
 button {
