@@ -73,7 +73,7 @@ input {
   border-bottom: 1px solid #000;
   margin: 10px 0;
   font-size: 14px;
-  padding-left: 10px;
+  text-indent: 10px;
   background-color: #424242;
 }
 textarea {
@@ -90,7 +90,7 @@ textarea {
 button {
   border: none;
   padding: 15px;
-  width: calc(100% + 10px);
+  width: 100%;
   background-color: #0066ff;
   color: #fff;
   cursor: pointer;
