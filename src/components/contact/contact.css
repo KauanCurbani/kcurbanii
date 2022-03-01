@@ -83,7 +83,7 @@ textarea {
   border: none;
   margin: 10px 0;
   font-size: 14px;
-  padding-left: 10px;
+  text-indent: 10px;
   background-color: #424242;
 }
 
