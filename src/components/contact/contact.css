@@ -90,7 +90,7 @@ textarea {
 button {
   border: none;
   padding: 15px;
-  width: 100%;
+  width: calc(100% + 10px);
   background-color: #0066ff;
   color: #fff;
   cursor: pointer;
