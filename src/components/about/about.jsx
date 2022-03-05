@@ -20,7 +20,7 @@ const About = () => {
         <p className="a-desc">
           Começei a estudar no inicio de 2021, aprendendo sozinho apenas com
           video aulas de Html e Css gratuitas no Youtube. Atualmente estou estudando ReactJS,
-          nao sei porque gosto tanto de desenvolver websites mas cada dia que passa eu me inspiro
+          não sei porque gosto tanto de desenvolver websites mas cada dia que passa eu me inspiro
           mais para aprender e executar...
         </p>
         <div className="a-award">

@@ -2,13 +2,13 @@
   width: 30%;
   height: 40vh;
   margin: 20px 10px;
-  border: 2px solid #2f4566;
+  border: 2px solid #283558;
   border-radius: 10px 10px 0px 0px;
   overflow: hidden;
 }
 .p-browser {
   height: 20px;
-  background-color: #2f4566;
+  background-color: #283558;
   display: flex;
   align-items: center;
   position: sticky;
@@ -24,10 +24,10 @@
 }
 .p-img {
   width: 100%;
-  transition: all 5s ease-in-out;
+  transition: all 3s ease-in-out;
 }
 .p:hover .p-img {
-  transform: translateY(-100%);
+  transform: translateY(calc(-55% - 40vh));
 }
 @media screen and (max-width: 480px){
   .p{
