@@ -73,8 +73,9 @@ input {
   border-bottom: 1px solid #000;
   margin: 10px 0;
   font-size: 14px;
-  padding-left: 10px;
+  text-indent: 10px;
   background-color: #424242;
+  padding: 0;
 }
 textarea {
   resize: none;
@@ -83,8 +84,9 @@ textarea {
   border: none;
   margin: 10px 0;
   font-size: 14px;
-  padding-left: 10px;
+  text-indent: 10px;
   background-color: #424242;
+  padding: 0;
 }
 
 button {
