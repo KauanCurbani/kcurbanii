@@ -26,8 +26,8 @@ const About = () => {
           <div className="a-award-texts">
             <h4 className="a-award-title">Desenvolvimento ReactJs</h4>
             <p className="a-award-desc">
-              Meu foco inicial é ter experiência como desenvolvedor WEB utlizando ReactJs, apesar de ainda nao 
-              ter experiencia continuo estudando para poder ter uma carreira profissional fazendo oque eu gosto!
+              Meu foco inicial é ter experiência como desenvolvedor WEB utlizando ReactJs, estou estudando
+              para um dia poder adquirir experiencias e novos conhecimentos.
             </p>
           </div>
         </div>
