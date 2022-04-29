@@ -12,8 +12,7 @@ const Contact = () => {
   const handleSubmit = (e) => {
     e.preventDefault();
 
-    emailjs
-      .sendForm(
+    emailjs.sendForm(
         "service_o8ig7vc",
         "template_e18pyoz",
         formRef.current,

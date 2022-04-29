@@ -18,19 +18,16 @@ const About = () => {
           uma sede enorme de aprender
         </p>
         <p className="a-desc">
-          Começei a estudar no inicio de 2021, aprendendo sozinho apenas com
-          video aulas de Html e Css gratuitas no Youtube. Atualmente estou estudando ReactJS,
-          não sei porque gosto tanto de desenvolver websites mas cada dia que passa eu me inspiro
-          mais para aprender e executar...
+          Começei a estudar desenvolvimento web no inicio de 2021, apenas com videos no Youtube de HTML5 e CSS3,
+          gosto muito de CSS, fazendo designs modernos e responsivos. Atualmente estou estudando ReactJs com cursos da Udemy
         </p>
         <div className="a-award">
           <img src={award} alt="" className="a-award-img" />
           <div className="a-award-texts">
-            <h4 className="a-award-title">Cursos do Curso em Video</h4>
+            <h4 className="a-award-title">Desenvolvimento ReactJs</h4>
             <p className="a-award-desc">
-              Sem duvidas um dos melhores cursos gratuitos, sou grato a essa
-              equipe, eles me ajudar a descobrir o que eu quero para meu futuro.
-              Grato a equipe Curso em Video
+              Meu foco inicial é ter experiência como desenvolvedor WEB utlizando ReactJs, apesar de ainda nao 
+              ter experiencia continuo estudando para poder ter uma carreira profissional fazendo oque eu gosto!
             </p>
           </div>
         </div>
